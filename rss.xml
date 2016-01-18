@@ -4,7 +4,7 @@
         <description><![CDATA[La Petite Provence]]></description>
         <link>https://thegrid.ai/provence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 18:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 18:46:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/provence/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[La Petite Provence, Le grand tasting]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/provence/la-petite-provence-le-grand-tasting/index.html</link>
             <guid isPermaLink="false">13cf5dcd-3cd3-4761-a009-2c20654fdc1c</guid>
             <pubDate>Mon, 18 Jan 2016 17:43:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La Petite Provence]]></title>
-            <description><![CDATA[<article><h1>La Petite Provence</h1><p>Provence Delights is for the foodies. It’s for the gourmet. It’s for the ones looking for the tastiest food and beverage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64041bbc8b8a879bfdca1adbd45e7b93f5348939.jpg"></article>]]></description>
-            <link>https://thegrid.ai/provence/b8eb44a4-0d7d-4301-92b0-d55fb5e01b94/index.html</link>
-            <guid isPermaLink="false">b8eb44a4-0d7d-4301-92b0-d55fb5e01b94</guid>
-            <pubDate>Mon, 18 Jan 2016 18:41:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
