@@ -4,11 +4,18 @@
         <description><![CDATA[La Petite Provence]]></description>
         <link>https://thegrid.ai/provence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 16:46:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 16:49:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/provence/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Artisan Ice Lollies]]></title>
+            <description><![CDATA[<article><h1>Artisan Ice Lollies</h1><p>Now available on the Corniche, and at Yas beach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3285af3cb55cef0aa6d9c3226fb31905de85f803.jpg"></article>]]></description>
+            <link>https://thegrid.ai/provence/artisan-ice-lollies/index.html</link>
+            <guid isPermaLink="false">c52bb991-82da-4322-a2d4-f37a7fe66d1d</guid>
+            <pubDate>Sat, 23 Jan 2016 16:49:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Logo]]></title>
-            <description><![CDATA[<article><h1>Logo</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c567290c-b3a4-4831-990d-a1d5a9dae5cb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Logo</h1><p>New logo!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3461249575c9f8dfd90538b2dce8d854175212f6.jpg"></article>]]></description>
             <link>https://thegrid.ai/provence/logo/index.html</link>
             <guid isPermaLink="false">72552945-c9ca-4d22-88d1-1583faa1a61f</guid>
             <pubDate>Sat, 23 Jan 2016 16:46:03 GMT</pubDate>
