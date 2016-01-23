@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[La Petite Provence]]></title>
+        <description><![CDATA[La Petite Provence]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jan 2016 16:41:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La Boutique]]></title>
+            <description><![CDATA[<article><h1>La Boutique</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6a17aef-dac1-44c3-a317-011de1073300.jpg"></article>]]></description>
+            <link>undefinedla-boutique/index.html</link>
+            <guid isPermaLink="false">37fc03bb-fef8-44e4-8ac4-6beb4a5d0ab5</guid>
+            <pubDate>Sat, 23 Jan 2016 16:41:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
