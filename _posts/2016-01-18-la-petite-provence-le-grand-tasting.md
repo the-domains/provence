@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T16:35:17.938Z'
+datePublished: '2016-01-23T16:35:18.017Z'
 dateModified: '2016-01-23T16:35:12.552Z'
 title: 'La Petite Provence, Le grand tasting'
 author: []
