@@ -1,4 +1,4 @@
-name: Provence
+name: La Petite Provence
 favicon: null
 layout_spectrum: 0.24936
 typography_spectrum: 0.06836
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#030300'
-    - '#ffbe00'
-    - '#9e3700'
-    - '#af9c88'
-    - '#ffcdff'
-  brandStrength: 0.5
+    - '#88a0d3'
+    - '#b6cceb'
+    - '#657aa2'
+    - '#526587'
+    - '#425471'
+  brandStrength: 0
   lightness: 1
   saturation: 0.5
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 purpose: []
