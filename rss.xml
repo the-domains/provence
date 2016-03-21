@@ -4,7 +4,7 @@
         <description><![CDATA[La Petite Provence]]></description>
         <link>https://thegrid.ai/provence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 17:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 18:04:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/provence/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -21,6 +21,13 @@
             <pubDate>Sat, 23 Jan 2016 17:02:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13ad956d-ee46-4122-b3b4-eaab57f53ea0.png">]]></description>
+            <link>https://thegrid.ai/provence/6736aca3-0e92-432b-a486-7042d214bbf3/index.html</link>
+            <guid isPermaLink="false">6736aca3-0e92-432b-a486-7042d214bbf3</guid>
+            <pubDate>Mon, 21 Mar 2016 18:04:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Artisan Ice Lollies]]></title>
             <description><![CDATA[<article><h1>Artisan Ice Lollies</h1><p>Now available on the Corniche, and at Yas beach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aec663534f56e8181556c3d5c8a53d20d90e8526.jpg"></article>]]></description>
             <link>https://thegrid.ai/provence/artisan-ice-lollies/index.html</link>
@@ -29,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[New logo!]]></title>
-            <description><![CDATA[<article><h1>New logo!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0aca734c45a56c584b62f1355c81f16e91ccc714.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>New logo!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed9498d8f2de5a4e7bfe856037023ca1df49a122.jpg"></article>]]></description>
             <link>https://thegrid.ai/provence/logo/index.html</link>
             <guid isPermaLink="false">72552945-c9ca-4d22-88d1-1583faa1a61f</guid>
             <pubDate>Sat, 23 Jan 2016 17:00:06 GMT</pubDate>
