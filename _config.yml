@@ -1,16 +1,16 @@
 title: La Petite Provence
 cta:
-  domain: null
-  version: null
   bucket: null
-layout_spectrum: 1
+  version: null
+  domain: null
+layout_spectrum: 0
 favicon: null
 name: La Petite Provence
 purpose: []
 analytics:
-  facebook: null
-  google: null
   twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -28,14 +28,14 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  brandStrength: 0.5563204
+  brandStrength: 1
   lightness: 1
-  saturation: 1
+  saturation: 0
   rhythmicContrast: 0
   brandColors:
-    - '#88a0d3'
-    - '#b6cceb'
-    - '#657aa2'
-    - '#526587'
-    - '#425471'
+    - '#B4B3B4'
+    - '#F2F4F9'
+    - '#0F1616'
+    - '#3A5C6E'
+    - '#775439'
 typography_spectrum: 0.06155143
